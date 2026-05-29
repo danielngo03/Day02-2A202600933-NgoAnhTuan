@@ -82,10 +82,13 @@ Không nên tự xây dựng một công cụ gom chat mới từ đầu do CAC 
 
 File nhóm nộp kèm:
 
-```text
-mermaid-diagram_truoc.png
-mermaid-diagram_sau.png
-```
+### Workflow hiện tại
+
+![Workflow hiện tại](02-group-problem-statement-workflow-before.png)
+
+### Workflow sau tối ưu
+
+![Workflow sau tối ưu](02-group-problem-statement-workflow-after.png)
 
 Nội dung workflow:
 
